@@ -1,2 +1,7 @@
 oak
 pine
+leaf
+wood
+fruit
+bird
+worm
